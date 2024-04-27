@@ -1,0 +1,1 @@
+enum ChatAuth { user, model }
